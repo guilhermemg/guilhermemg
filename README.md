@@ -5,9 +5,8 @@
 🎓 PhD in Artificial Intelligence, MSc in Software Engineering.  
 💻 R&D Tech Lead at Vsoft, leading biometric systems innovations.  
 
-I'm a tech enthusiast passionate about leveraging AI to solve real-world problems.  
-With a strong background in AI, biometrics, and MLOps, I thrive on creating innovative solutions that push the boundaries of technology.  
-When I'm not coding, I enjoy to read literature books, listen music, and spend time with my family.
+I'm a tech enthusiast with a strong background in AI, biometrics, and MLOps. I thrive on creating innovative solutions that push the boundaries of technology.  
+When I'm not coding, I enjoy reading literature, listening to music, and spending time with my family.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
