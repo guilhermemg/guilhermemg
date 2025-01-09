@@ -9,6 +9,16 @@ I'm a tech enthusiast passionate about leveraging AI to solve real-world problem
 With a strong background in AI, biometrics, and MLOps, I thrive on creating innovative solutions that push the boundaries of technology.  
 When I'm not coding, I enjoy to read literature books, listen music, and spend time with my family.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=mlops&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-7289DA?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
+
 ---
 
 ## 🔧 Technologies & Tools
@@ -36,13 +46,15 @@ When I'm not coding, I enjoy to read literature books, listen music, and spend t
 
 ---
 
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ggadelha/)
+## 🚀 Currently Learning & Goals
+- Exploring advanced use cases of Large Language Models (LLMs) with LangChain and ReAct.
+- Experimenting with AI applications in emotional intelligence.
+- Aiming to contribute to open-source projects in MLOps and biometrics.
 
 ---
 
-## 📈 GitHub Stats
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermemg&show_icons=true&theme=radical)
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ggadelha/)
 
 
 
