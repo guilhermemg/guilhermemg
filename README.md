@@ -42,7 +42,7 @@ When I'm not coding, I enjoy to read literature books, listen music, and spend t
 ## 🏆 Achievements
 - Led the development of a facial recognition system adopted by 10+ organizations, improving identity verification accuracy by 40%.
 - Spearheaded MLOps practices at Vsoft, reducing deployment time by 50%, the maintanance cost, and increasing the reliability in the released systems.
-- Published 5+ research papers in AI and biometric recognition.
+- Published many research papers in AI and biometric recognition.
 
 ---
 
