@@ -54,7 +54,4 @@ When I'm not coding, I enjoy to read literature books, listen music, and spend t
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ggadelha/)
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggadelha/)
