@@ -63,7 +63,7 @@ I'm a tech enthusiast with a strong background in AI, biometrics, and MLOps. I t
 
 - ![Face Liveness Detection System](https://img.shields.io/static/v1?label=Project&message=Face%20Anti%20Spoofing&color=blue):
   - Developed a robust facial liveness detection system to prevent spoofing attacks, utilizing advanced computer vision and AI techniques for improved security in identity verification systems.
-  - Achieved 98% accuracy, matching industry leaders.
+  - Achieved 99% accuracy, matching industry leaders.
   - Enhanced security while reducing user friction.
   - Processing 100k+ daily requests in production.
   - Currently in international certification process.
@@ -71,8 +71,6 @@ I'm a tech enthusiast with a strong background in AI, biometrics, and MLOps. I t
 - ![Cloud Infrastructure Optimization](https://img.shields.io/static/v1?label=Project&message=Cloud%20Optimization%20Infrastructure&color=blue):
   - Led migration to GCP for R&D operations.
   - Reduced cloud costs by 40%.
-  - Designed and implemented MLOps pipeline architecture.
- 
 
 ---
 ## 🏆 Achievements
