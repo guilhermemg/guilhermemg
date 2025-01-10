@@ -2,14 +2,12 @@
 **AI Specialist | Biometric Solutions Developer | MLOps Enthusiast**
 
 🚀 Passionate about building cutting-edge solutions in AI.  
-🎓 PhD in Artificial Intelligence, MSc in Software Engineering.  
+🎓 Ph.D. in Artificial Intelligence, M.Sc. in Software Engineering.  
 💻 R&D Tech Lead at Vsoft, leading biometric systems innovations.  
 
 I'm a tech enthusiast with a strong background in AI, biometrics, and MLOps. I thrive on creating innovative solutions that push the boundaries of technology.  
 When I'm not coding, I enjoy reading literature, listening to music, and spending time with my family.
 
----
-## ⚡ Core Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -34,21 +32,20 @@ When I'm not coding, I enjoy reading literature, listening to music, and spendin
 ---
 ## 🌟 Featured Projects
 - [![Facial Recognition Pipeline](https://img.shields.io/static/v1?label=Project&message=Facial%20Recognition%20Pipeline&color=blue)](https://github.com/yourrepo):  
-  End-to-end facial recognition system using AI and MLOps best practices.
-  
+  - End-to-end facial recognition system using AI and MLOps best practices.
+    
 - [![MLOps Standardization](https://img.shields.io/static/v1?label=Project&message=MLOps%20Standardization&color=blue)](https://github.com/yourrepo):  
-  Standardized pipeline improving efficiency and reliability by 30%.
+  - Standardized pipeline increasing efficiency and reliability by 30%.
+  - Led a team of 8 data analysts and developers to design and deploy the pipelines of different projects.
 
----
-## 🌍 Open Source Contributions
-- Contributed to [TensorFlow Addons](https://github.com/tensorflow/addons), improving X feature.
-- Created tools to streamline MLOps workflows, available [here](https://github.com/yourrepo).
+- ![Face Anti-Spoofing](https://img.shields.io/static/v1?label=Project&message=Face%20Anti%20Spoofing&color=blue):
+  - Developed a robust facial liveness detection system to prevent spoofing attacks, utilizing advanced computer vision and AI techniques for improved security in identity verification systems.  
 
 ---
 ## 🏆 Achievements
-- Led the development of a facial recognition system adopted by 10+ organizations, improving identity verification accuracy by 40%.
-- Implemented MLOps practices at Vsoft, reducing deployment time by 50% and lowering maintenance costs.
-- Published 5+ research papers in AI and biometric recognition in reputed journals and conferences.
+- Spearheaded the development of a facial recognition system adopted by 10+ organizations, enhancing identity verification accuracy by 40%.
+- Introduced scalable MLOps practices at Vsoft, reducing deployment time by 50% and lowering costs by 25%.
+- Published 5+ research papers in prestigious AI and biometrics journals.
 
 ---
 ## 🚀 Currently Learning & Goals
