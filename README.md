@@ -54,13 +54,26 @@ When I'm not coding, I enjoy reading literature, listening to music, and spendin
 ## 🌟 Featured Projects
 - [![Facial Recognition Pipeline](https://img.shields.io/static/v1?label=Project&message=Facial%20Recognition%20Pipeline&color=blue)](https://github.com/yourrepo):  
   - End-to-end facial recognition system using AI and MLOps best practices.
+  - Developed state-of-the-art accuracy system.
+  - Scaled to handle thousands of daily requests.
+  - Currently in international certification process.
     
 - [![MLOps Standardization](https://img.shields.io/static/v1?label=Project&message=MLOps%20Standardization&color=blue)](https://github.com/yourrepo):  
   - Standardized pipeline increasing efficiency and reliability by 30%.
   - Led a team of 8 data analysts and developers to design and deploy the pipelines of different projects.
 
-- ![Face Anti-Spoofing](https://img.shields.io/static/v1?label=Project&message=Face%20Anti%20Spoofing&color=blue):
-  - Developed a robust facial liveness detection system to prevent spoofing attacks, utilizing advanced computer vision and AI techniques for improved security in identity verification systems.  
+- ![Face Liveness Detection System](https://img.shields.io/static/v1?label=Project&message=Face%20Anti%20Spoofing&color=blue):
+  - Developed a robust facial liveness detection system to prevent spoofing attacks, utilizing advanced computer vision and AI techniques for improved security in identity verification systems.
+  - Achieved 98% accuracy, matching industry leaders.
+  - Enhanced security while reducing user friction.
+  - Processing 100k+ daily requests in production.
+  - Currently in international certification process.
+
+- ![Cloud Infrastructure Optimization](https://img.shields.io/static/v1?label=Project&message=Cloud%20Optimization%20Infrastructure&color=blue):
+  - Led migration to GCP for R&D operations.
+  - Reduced cloud costs by 40%.
+  - Designed and implemented MLOps pipeline architecture.
+ 
 
 ---
 ## 🏆 Achievements
@@ -73,6 +86,12 @@ When I'm not coding, I enjoy reading literature, listening to music, and spendin
 - Exploring advanced use cases of Large Language Models (LLMs) with LangChain and ReAct.
 - Experimenting with AI applications in emotional intelligence.
 - Aiming to contribute to open-source projects in MLOps and biometrics.
+
+---
+## 🎤 Speaking & Community
+- Speaker at 5th Meetup of Paraiba's AI Community (2024)
+- MLOps in Practice Workshop at Vsoft (2022)
+- Active contributor to open-source projects
 
 ---
 ## 🎉 Fun Facts
