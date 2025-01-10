@@ -18,16 +18,37 @@ When I'm not coding, I enjoy reading literature, listening to music, and spendin
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)](https://opensource.org/)
 
-
 ## 🔧 Technologies & Tools
-- **LLMs**: ChatGPT, Gemini, Ollama, LangChain, LangSmith, ReAct, Prompt Engineering
-- **Machine Learning Tools**: Tensorflow, PyTorch, ONNX, Scikit-Learn, Pandas, Numpy, Neptune.ai
-- **Cloud Platforms**: GCP, Azure, OCI			
-- **Databases**: Hive, HBase, Oracle, PostgreSQL, MySQL, MongoDB, Elasticsearch
-- **Programming Languages**: Python, Javascript, Java, C++, Bash, R, C#
-- **Operating Systems**: UNIX-like OS's, Windows
-- **Integrated Development Environments**: VSCode, Jupyter Lab, Visual Studio
-- **Others**: Spark, Hadoop, Docker, Microservices, MLOps, ELK, Kafka, OpenCV, Git, Azure DevOps
+
+### 🤖 AI & Machine Learning
+- **Large Language Models:** ChatGPT, Gemini, Ollama, LangChain, LangSmith, ReAct, Prompt Engineering
+- **ML Frameworks:** TensorFlow, PyTorch, ONNX, Scikit-Learn
+- **Computer Vision:** OpenCV
+- **Data Processing:** Pandas, NumPy
+- **MLOps & Monitoring:** Neptune.ai
+
+### ☁️ Cloud & Infrastructure
+- **Cloud Platforms:** GCP, Azure, OCI
+- **Containerization:** Docker, Kubernetes
+- **Big Data:** Apache Spark, Hadoop
+- **Message Queues:** Kafka
+- **Monitoring:** ELK Stack
+
+### 💾 Databases
+- **SQL:** Oracle, PostgreSQL, MySQL
+- **NoSQL:** MongoDB, HBase
+- **Search Engines:** Elasticsearch
+- **Data Warehousing:** Hive
+
+### 💻 Development
+- **Languages:** Python, JavaScript, Java, C++, Bash, R, C#
+- **IDEs:** VSCode, Jupyter Lab, Visual Studio
+- **Version Control:** Git, Azure DevOps
+- **Architecture:** Microservices
+
+### 🛠️ Operating Systems
+- **Linux/Unix-based Systems**
+- **Windows**
 
 ---
 ## 🌟 Featured Projects
@@ -64,3 +85,5 @@ When I'm not coding, I enjoy reading literature, listening to music, and spendin
 I'm always excited to collaborate on innovative AI projects or discuss new ideas. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggadelha/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermemg)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gsgadelha)
