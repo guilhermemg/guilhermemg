@@ -17,7 +17,16 @@ I'm a tech enthusiast with a strong background in AI, biometrics, and MLOps. I t
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)](https://opensource.org/)
 
+
+## 🏆 Achievements
+- Spearheaded the development of a facial recognition system adopted by 10+ organizations, enhancing identity verification accuracy by 40%.
+- Introduced scalable MLOps practices at Vsoft, reducing deployment time by 50% and lowering costs by 25%.
+- Published 5+ research papers in prestigious AI and biometrics journals.
+
+---
 ## 🔧 Technologies & Tools
+
+Here are the key technologies I work with.
 
 ### 🤖 AI & Machine Learning
 - **Large Language Models:** ChatGPT, Gemini, Ollama, LangChain, LangSmith, ReAct, Prompt Engineering
@@ -72,31 +81,35 @@ I'm a tech enthusiast with a strong background in AI, biometrics, and MLOps. I t
   - Led migration to GCP for R&D operations.
   - Reduced cloud costs by 40%.
 
----
-## 🏆 Achievements
-- Spearheaded the development of a facial recognition system adopted by 10+ organizations, enhancing identity verification accuracy by 40%.
-- Introduced scalable MLOps practices at Vsoft, reducing deployment time by 50% and lowering costs by 25%.
-- Published 5+ research papers in prestigious AI and biometrics journals.
 
 ---
 ## 🚀 Currently Learning & Goals
+
 - Exploring advanced use cases of Large Language Models (LLMs) with LangChain and ReAct.
 - Experimenting with AI applications in emotional intelligence.
 - Aiming to contribute to open-source projects in MLOps and biometrics.
 
 ---
 ## 🎤 Speaking & Community
+
+I believe in the power of knowledge sharing and fostering collaboration within the tech community. Over the years, I have had the privilege of speaking at various events, which not only allows me to share my expertise but also pushes me to stay at the forefront of emerging trends in AI and MLOps. Here's where I've contributed:
+
 - Speaker at 5th Meetup of Paraiba's AI Community (2024)
 - MLOps in Practice Workshop at Vsoft (2022)
+- Mentor & Contributor: Actively mentoring newcomers in AI and MLOps, sharing best practices, and contributing to open-source projects that align with my expertise in biometric systems and AI.
+
+Through these engagements, I aim to inspire others while learning from their diverse experiences. Engaging with the community keeps me motivated to innovate and continue improving the field of AI and biometrics.
 
 ---
 ## 🎉 Fun Facts
+
 - I'm fascinated by Philosophy and its intersection with AI.
 - I enjoy discovering music from different cultures and genres.
 - My favorite book genre is classic literature, specially Brazilian literature.
 
 ---
 ## 🤝 Let's Connect!
+
 I'm always excited to collaborate on innovative AI projects or discuss new ideas. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggadelha/)
