@@ -88,7 +88,6 @@ I'm a tech enthusiast with a strong background in AI, biometrics, and MLOps. I t
 ## 🎤 Speaking & Community
 - Speaker at 5th Meetup of Paraiba's AI Community (2024)
 - MLOps in Practice Workshop at Vsoft (2022)
-- Active contributor to open-source projects
 
 ---
 ## 🎉 Fun Facts
