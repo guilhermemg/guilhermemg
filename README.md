@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Guilherme Gadelha!
 **AI Specialist | Biometric Solutions Developer | MLOps Enthusiast**
 
-![](business-business-meeting-coffee-conference-room-preview.jpg)
-
-
 🚀 Passionate about building cutting-edge solutions in AI.  
 🎓 Ph.D. in Artificial Intelligence, M.Sc. in Software Engineering.  
 💻 R&D Tech Lead at Vsoft, leading biometric systems innovations.  
