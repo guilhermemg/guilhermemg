@@ -60,32 +60,32 @@ Here are the key technologies I work with.
 
 ---
 ## 🌟 Featured Projects
-- [![Facial Recognition Pipeline](https://img.shields.io/static/v1?label=Project&message=Facial%20Recognition%20Pipeline&color=blue)](https://github.com/yourrepo):  
-  - End-to-end facial recognition system using AI and MLOps best practices.
+
+- **[AI Playground](https://github.com/guilhermemg/ai-playground)**
+  - A repository showcasing projects that leverage large language models (LLMs) and agent-based systems.
+  - Includes the **Simple Sales Assistant**, a microservice interacting with OpenAI's API for sales assistance.
+  - Designed to demonstrate expertise in AI, microservices, and scalable architectures.
+
+- **Facial Recognition Pipeline**  
+    - End-to-end facial recognition system using AI and MLOps best practices.
   - Developed state-of-the-art accuracy system.
   - Scaled to handle thousands of daily requests.
   - Currently in international certification process.
-    
-- [![MLOps Standardization](https://img.shields.io/static/v1?label=Project&message=MLOps%20Standardization&color=blue)](https://github.com/yourrepo):  
+
+- **MLOps Standardization**  
   - Standardized pipeline increasing efficiency and reliability by 30%.
   - Led a team of 8 data analysts and developers to design and deploy the pipelines of different projects.
 
-- ![Face Liveness Detection System](https://img.shields.io/static/v1?label=Project&message=Face%20Anti%20Spoofing&color=blue):
+- **Face Liveness Detection System**  
   - Developed a robust facial liveness detection system to prevent spoofing attacks, utilizing advanced computer vision and AI techniques for improved security in identity verification systems.
   - Achieved 99% accuracy, matching industry leaders.
   - Enhanced security while reducing user friction.
   - Processing 100k+ daily requests in production.
   - Currently in international certification process.
 
-- ![Cloud Infrastructure Optimization](https://img.shields.io/static/v1?label=Project&message=Cloud%20Optimization%20Infrastructure&color=blue):
+- **Cloud Infrastructure Optimization**  
   - Led migration to GCP for R&D operations.
   - Reduced cloud costs by 40%.
-
-- [![AI Playground](https://img.shields.io/static/v1?label=Project&message=AI%20Playground&color=blue)](https://github.com/guilhermemg/ai-playground):  
-  - A repository showcasing projects that leverage large language models (LLMs) and agent-based systems.
-  - Includes the **Simple Sales Assistant**, a microservice interacting with OpenAI's API for sales assistance.
-  - Designed to demonstrate expertise in AI, microservices, and scalable architectures.
-
 
 ---
 ## 🚀 Currently Learning & Goals
