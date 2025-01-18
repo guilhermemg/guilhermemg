@@ -81,6 +81,11 @@ Here are the key technologies I work with.
   - Led migration to GCP for R&D operations.
   - Reduced cloud costs by 40%.
 
+- [![AI Playground](https://img.shields.io/static/v1?label=Project&message=AI%20Playground&color=blue)](https://github.com/guilhermemg/ai-playground):  
+  - A repository showcasing projects that leverage large language models (LLMs) and agent-based systems.
+  - Includes the **Simple Sales Assistant**, a microservice interacting with OpenAI's API for sales assistance.
+  - Designed to demonstrate expertise in AI, microservices, and scalable architectures.
+
 
 ---
 ## 🚀 Currently Learning & Goals
