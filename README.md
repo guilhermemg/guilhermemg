@@ -66,8 +66,13 @@ Here are the key technologies I work with.
   - Includes the **Simple Sales Assistant**, a microservice interacting with OpenAI's API for sales assistance.
   - Designed to demonstrate expertise in AI, microservices, and scalable architectures.
 
+- **Document Intelligence Microservice**
+  - Developed and deployed in record time a microservice that uses Google LLM Gemini to automatically extract key information from birth and marriage certificates.
+  - Reduced manual effort significantly and enhanced data accuracy by implementing advanced text processing and validation mechanisms.
+  - Demonstrates proficiency in rapid prototyping, AI integration, and microservice architecture.
+
 - **Facial Recognition Pipeline**  
-    - End-to-end facial recognition system using AI and MLOps best practices.
+  - End-to-end facial recognition system using AI and MLOps best practices.
   - Developed state-of-the-art accuracy system.
   - Scaled to handle thousands of daily requests.
   - Currently in international certification process.
