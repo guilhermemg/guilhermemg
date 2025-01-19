@@ -93,6 +93,16 @@ Here are the key technologies I work with.
   - Reduced cloud costs by 40%.
 
 ---
+## 📘 Courses & Certifications
+ - [Deep Learning Specialization](https://www.coursera.org/learn/neural-networks-deep-learning) (Coursera, Andrew Ng)
+ - [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/courses/chatgpt-building-system) (DeepLearning.ai)
+ - [LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain) (DeepLearning.ai)
+ - [LangChain - Develop LLM powered applications with LangChain](https://www.udemy.com/course/langchain) (Udemy) - _On Going_
+ - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) (Coursera)
+ - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) (Coursera/DeepLearning.ai)
+ - [Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) (Coursera/DeepLearning.ai)
+
+---
 ## 🚀 Currently Learning & Goals
 
 - Exploring advanced use cases of Large Language Models (LLMs) with LangChain and ReAct.
