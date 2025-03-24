@@ -98,7 +98,7 @@ Here are the key technologies I work with.
  - [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/courses/chatgpt-building-system) (DeepLearning.ai)
  - [LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain) (DeepLearning.ai)
  - [LangChain - Develop LLM powered applications with LangChain](https://www.udemy.com/course/langchain) (Udemy)
- - [LangGraph- Develop LLM powered AI agents with LangGraph](https://www.udemy.com/course/langgraph/learn/lecture/43515120) - _On Going_
+ - [LangGraph- Develop LLM powered AI agents with LangGraph](https://www.udemy.com/course/langgraph/learn/lecture/43515120) (Udemy) - _On Going_
  - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) (Coursera)
  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) (Coursera/DeepLearning.ai)
  - [Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) (Coursera/DeepLearning.ai)
