@@ -3,7 +3,7 @@
 
 🚀 Passionate about building cutting-edge solutions in AI.  
 🎓 Ph.D. in Artificial Intelligence, M.Sc. in Software Engineering.  
-💻 R&D Tech Lead at Vsoft, leading biometric systems innovations.  
+💻 R&D Specialist, leading AI systems innovations from the lab to production environments.  
 
 I'm a tech enthusiast with a strong background in AI, biometrics, and MLOps. I thrive on creating innovative solutions that push the boundaries of technology. When I'm not coding, I enjoy reading literature, listening to music, and spending time with my family.
 
