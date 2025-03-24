@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Guilherme Gadelha!
-**AI Specialist | Biometric Solutions Developer | MLOps Enthusiast**
+**AI Specialist | Consultant | AI Solutions Developer | MLOps Enthusiast**
 
 🚀 Passionate about building cutting-edge solutions in AI.  
 🎓 Ph.D. in Artificial Intelligence, M.Sc. in Software Engineering.  
